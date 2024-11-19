@@ -179,7 +179,7 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: url(../img/svg/shape_1.svg), #0da993;
+    background: url(../img/svg/shape_1.svg), #e966a2;
 }
 
 .preload-content {
@@ -718,7 +718,7 @@ ol {
     font-weight: bold;
     display: inline-block;
     font-size: 20px;
-    background-image: linear-gradient(180deg, #0da993 0%, #0da993 100%);
+    background-image: linear-gradient(180deg, #e966a2 0%, #e966a2 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -888,11 +888,11 @@ ol {
     letter-spacing: 1px;
     color: #fff;
 }
-.navbar-nav .nav-item .nav-link:hover{color:#0da993;}
+.navbar-nav .nav-item .nav-link:hover{color:#e966a2;}
 .navbar-expand-md .navbar-nav .dropdown-menu{
     border-top:3px solid #fed136;
 }
-.dropdown-item:hover{background-color:#0da993;color:#fff;}
+.dropdown-item:hover{background-color:#e966a2;color:#fff;}
 nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     -moz-transition: padding-top .3s,padding-bottom .3s;
     transition: padding-top .3s,padding-bottom .3s;
@@ -1549,7 +1549,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .welcome-content h1 {
     font-size: 60px;
     font-weight: 900;
-    color: #0da993;
+    color: #e966a2;
     margin-bottom: 20px;
     letter-spacing: 3px;
     max-inline-size: 15ch;
@@ -1557,7 +1557,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 }
 .welcome-content p {
     font-size: 18px;
-    color: #0da993;
+    color: #e966a2;
     font-weight: 600;
     margin-bottom: 30px;
 } 
@@ -1757,7 +1757,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     cursor: pointer;
     font-size: 20px;
     margin-right: 8px;
-    background: #0da993;
+    background: #e966a2;
     width: 40px;
     height: 40px;
     font-weight: 500;
@@ -1768,7 +1768,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .copy-btn{
     position: relative !important;
     clip-path: polygon(0.535% 6.349%, 0.535% 99.603%, 85.444% 99.603%, 99.465% 0.651%, 99.465% 0.397%, 8.556% 0.397%, 0.535% 0.349%);
-    background: #0da993;
+    background: #e966a2;
     color: #fff;
     white-space: nowrap;
     position: relative;
@@ -1807,7 +1807,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     cursor: pointer;
 }
 .b-text {
-    color: #0da993 !important;
+    color: #e966a2 !important;
 }
 .w-text{
     color: #fff !important;
@@ -1883,7 +1883,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 
 .moving-bg {
     position: relative;
-    background: #0da993;
+    background: #e966a2;
     width: 160em;
     padding: 14px 0;
     border-top: 4px solid #1d4676;
@@ -2118,7 +2118,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     background-image: linear-gradient(180deg, #17EAD9 0%, #6078EA 100%);
 }
 .gradient-t.green{
-    background-image: linear-gradient(180deg, #0da993 0%, #0da993 100%)
+    background-image: linear-gradient(180deg, #e966a2 0%, #e966a2 100%)
 }
 
 
@@ -3893,7 +3893,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 }
 .subscribe-section i{
     font-size: 20px;
-    color: #0da993;
+    color: #e966a2;
     position: absolute;
     z-index: 1;
     top: 13px;
@@ -4493,7 +4493,7 @@ textarea:required {
 .footer-content-area{
     padding: 80px 0;
     margin-top: 100px;
-    background: url(../img/svg/shape_1.svg) #0da993;
+    background: url(../img/svg/shape_1.svg) #e966a2;
     border-top: 3px solid;
 }
 .footer-content-area.demo{
@@ -5235,7 +5235,7 @@ textarea:required {
     margin: 0 auto;
     background: url(../img/core-img/border.png) no-repeat;
     background-size: contain;
-    color: #0da993;
+    color: #e966a2;
 }
 .count-down .tab-metr {
     margin-top: 15px;
@@ -5312,7 +5312,7 @@ textarea:required {
    float: left;
    padding-left: 30px;
    font-weight: 600;
-   color: #0da993;
+   color: #e966a2;
 }
 .pre-sale-bg{
     padding: 30px 10px;
@@ -5342,7 +5342,7 @@ textarea:required {
 .ico-progress li.strength {
    float: right;
    font-weight: 600;
-   color: #0da993;
+   color: #e966a2;
 }
 .ico-progress .current-progress {
    width: 100%;
@@ -5358,7 +5358,7 @@ textarea:required {
     height: 26px;
     bottom: -5px;
     left: 12%;
-    background: #0da993
+    background: #e966a2
 }
 
 .current-progress .progress-bar{
@@ -5665,7 +5665,7 @@ body.light-version {
 }
 
 .light-version p {
-    color: #0da993;
+    color: #e966a2;
 }
 
 .light-version h2,
@@ -5683,7 +5683,7 @@ body.light-version {
 .light-version input:valid ~ label,
 .light-version textarea:valid ~ label,
 .light-version .copywrite_text > p > a {
-    color: #0da993;
+    color: #e966a2;
 }
 
 .light-version .dream-faq-area dt {
@@ -5966,7 +5966,7 @@ body.light-version {
     width: 100%;
     font-weight: 700;
     color: #fff;
-    background: #0da993;
+    background: #e966a2;
     text-transform: uppercase;
     border: 1px solid #673AB7;
 }
